@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap");
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.custom-nav {
+  background-color: #005BC0;
+  color: #ffffff;
+  padding: 1em;
+}
+.custom-nav .navbar-brand {
+  font-weight: 700;
+  width: 20%;
+  white-space: break-spaces;
+  display: block;
+}
+.custom-nav .navbar-nav {
+  gap: 1.8em;
+}
+.custom-nav .navbar-nav .nav-link {
+  color: #ffffff;
+  font-weight: 300;
+}
+
+/*# sourceMappingURL=main.css.map */

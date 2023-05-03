@@ -21,6 +21,9 @@ body {
   color: #ffffff;
   font-weight: 300;
 }
+.custom-nav .navbar-nav .nav-link:hover {
+  color: #cccccc;
+}
 
 .custom-hero {
   margin-top: 3em;
@@ -51,6 +54,9 @@ body {
 }
 .custom-hero .button-wrapper .btn-primary {
   background-color: #005BC0;
+}
+.custom-hero .button-wrapper .btn-primary:hover {
+  background-color: #00438d;
 }
 .custom-hero .button-wrapper .btn-light {
   border: 1px solid black;
